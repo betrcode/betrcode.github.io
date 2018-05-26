@@ -12,7 +12,7 @@ description: > # this means to ignore newlines until "baseurl:"
   Better Code AB is an IT consulting company owned and operated by 
   Max Wenzin in Stockholm, Sweden.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://bettercode.se" # the base hostname & protocol for your site
+url: "https://www.bettercode.se" # the base hostname & protocol for your site
 twitter_username: maxwenzin
 github_username: betrcode
 
